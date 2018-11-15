@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CustomFunctionReturningArrayExample/Form1.cs) (VB: [Form1.vb](./VB/CustomFunctionReturningArrayExample/Form1.vb))
+* [TestArrayCustomFunction.cs](./CS/CustomFunctionReturningArrayExample/TestArrayCustomFunction.cs) (VB: [TestArrayCustomFunction.vb](./VB/CustomFunctionReturningArrayExample/TestArrayCustomFunction.vb))
+<!-- default file list end -->
 # UDF (Custom Function) - A sample custom function that returns an array
 
 
